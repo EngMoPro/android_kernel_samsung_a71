@@ -6216,3 +6216,4 @@ module_platform_driver(sdhci_msm_driver);
 
 MODULE_DESCRIPTION("Qualcomm Technologies, Inc. Secure Digital Host Controller Interface driver");
 MODULE_LICENSE("GPL v2");
+
